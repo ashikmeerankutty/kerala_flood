@@ -1,4 +1,4 @@
-# node_starter
+# Kerala Flood Rescue Requests
 ## How to start
 ### Install node modules
 `npm install`
@@ -16,4 +16,4 @@
 `npm run dev`
 
 ### Running test
-`npm run test`# kerala_flood
+`npm run test`
